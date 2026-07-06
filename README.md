@@ -1,0 +1,1 @@
+This repository covers C projects and coursework as part of the, free online programming course, C Programming for Everybody (CC4E). Created by Dr. Charles "Chuck" Severance, the course teaches foundational concepts of computer architecture and history using the C programming language.
